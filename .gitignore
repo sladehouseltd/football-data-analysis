@@ -19,3 +19,6 @@ build/
 
 # Generated plot files (optional, remove if you want to track these)
 *.png
+
+# data
+football-data-premier-league-2024-2025.csv
